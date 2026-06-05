@@ -141,6 +141,10 @@ hr {
     color: #545971;
 }
 
+.accordion-body {
+    background-color: var(--bs-accordion-active-bg);
+}
+
 .footerSection {
     position: relative;
     padding-bottom: 1px;
